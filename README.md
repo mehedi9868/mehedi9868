@@ -21,6 +21,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="72" height="72" /> 
     </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="72" height="72" /> 
+    </a>
 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -67,9 +70,7 @@
             alt="mongodb" width="72" height="72" /> 
     </a>
 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="72" height="72" /> 
-    </a>
+    
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi9868&show_icons=true&locale=en&layout=compact" alt="mehedi9868" /></p>
